@@ -1,0 +1,1160 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list-",
+				"list-icons"
+			],
+			[
+				"sud",
+				"sudoku"
+			],
+			[
+				"sudo",
+				"sudoku_grid"
+			],
+			[
+				"genera",
+				"generateSparsePermutation"
+			],
+			[
+				"exa",
+				"exampleData"
+			],
+			[
+				"ex",
+				"exampleData"
+			],
+			[
+				"exam",
+				"exampleData"
+			],
+			[
+				"theta",
+				"thetahatdot"
+			],
+			[
+				"assem",
+				"assembly_name"
+			],
+			[
+				"ty",
+				"type_of_bushing"
+			],
+			[
+				"ste",
+				"step_length_value"
+			],
+			[
+				"step",
+				"step_length"
+			],
+			[
+				"layou",
+				"layout_needle"
+			],
+			[
+				"layout",
+				"layout_needle"
+			],
+			[
+				"steple",
+				"step_length_value"
+			],
+			[
+				"QL",
+				"QLineEdit"
+			],
+			[
+				"marked",
+				"marked_side_fillet_out"
+			],
+			[
+				"mfo",
+				"marked_side_fillet_out"
+			],
+			[
+				"mw",
+				"marked_side_width"
+			],
+			[
+				"track",
+				"track_length"
+			],
+			[
+				"unmarked_side",
+				"unmarked_side_fillet_out"
+			],
+			[
+				"needle",
+				"needle_diameter_value"
+			],
+			[
+				"type",
+				"type_of_bushing"
+			],
+			[
+				"Type",
+				"TypeChangeDB"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"setV",
+				"setVisible"
+			],
+			[
+				"layo",
+				"layout_form"
+			],
+			[
+				"Q",
+				"QWidget"
+			],
+			[
+				"Save",
+				"SaveFile"
+			],
+			[
+				"need",
+				"needle_diameter_value"
+			],
+			[
+				"str",
+				"strip_thickness_value"
+			],
+			[
+				"Strip_la",
+				"strip_layout"
+			],
+			[
+				"Ql",
+				"QLabel"
+			],
+			[
+				"unma",
+				"unmarked_shell_thickness_value"
+			],
+			[
+				"trail",
+				"trail_file"
+			],
+			[
+				"tri",
+				"trail_file_string"
+			],
+			[
+				"trai",
+				"trail_file"
+			],
+			[
+				"trail_file",
+				"trail_file_string"
+			],
+			[
+				"parent_directory_",
+				"parent_directory_creo"
+			],
+			[
+				"paren",
+				"parent_directory_creo"
+			],
+			[
+				"parent",
+				"parent_directory"
+			],
+			[
+				"compa",
+				"company_name_value"
+			],
+			[
+				"compn",
+				"company_name_value"
+			],
+			[
+				"marke",
+				"marked_fillet_outside_radius"
+			],
+			[
+				"unmarked",
+				"unmarked_chamfer_outside_radius"
+			],
+			[
+				"length",
+				"length_value"
+			],
+			[
+				"leng",
+				"length_value"
+			],
+			[
+				"mark",
+				"marked_inner_radius"
+			],
+			[
+				"inner",
+				"inner_diameter_value"
+			],
+			[
+				"outer",
+				"outer_diameter_value"
+			],
+			[
+				"unmar",
+				"unmarked_shell_thickness_value"
+			],
+			[
+				"inne",
+				"inner_diameter_value"
+			],
+			[
+				"shell_",
+				"shell_params"
+			],
+			[
+				"cagelengt",
+				"cage_length_value"
+			],
+			[
+				"cageout",
+				"cage_outer_diameter_value"
+			],
+			[
+				"cage_hole",
+				"cage_hole_fillet_radius_value"
+			],
+			[
+				"hole",
+				"cage_hole_length"
+			],
+			[
+				"num",
+				"num_needle_value"
+			],
+			[
+				"needledia",
+				"needle_diameter_value"
+			],
+			[
+				"la",
+				"layout_top"
+			],
+			[
+				"cage_hole_fi",
+				"cage_hole_fillet_radius_value"
+			],
+			[
+				"cage_len",
+				"cage_hole_length"
+			],
+			[
+				"ca",
+				"cage_hole_width"
+			],
+			[
+				"cage_out",
+				"cage_outer_diameter_value"
+			],
+			[
+				"lay",
+				"layout_cage"
+			],
+			[
+				"cage_inne",
+				"cage_inner_diameter_value"
+			],
+			[
+				"cage",
+				"cage_length_value"
+			],
+			[
+				"ring",
+				"ring_diameter_value"
+			],
+			[
+				"go",
+				"go_diameter_value"
+			],
+			[
+				"inn",
+				"inner_diameter_value"
+			],
+			[
+				"len",
+				"length_value"
+			],
+			[
+				"oute",
+				"outer_diameter_value"
+			],
+			[
+				"strip",
+				"strip_thickness_value"
+			],
+			[
+				"strip_",
+				"strip_layout"
+			],
+			[
+				"strip_thicknes",
+				"strip_thickness_value"
+			],
+			[
+				"s",
+				"strip_thickness_value"
+			],
+			[
+				"com",
+				"company_name_value"
+			],
+			[
+				"shel",
+				"shell_thickness_value"
+			],
+			[
+				"nee",
+				"needle_diameter_value"
+			],
+			[
+				"rin",
+				"ring_diameter_value"
+			],
+			[
+				"typ",
+				"type_value"
+			],
+			[
+				"in",
+				"inner_diameter"
+			],
+			[
+				"hell",
+				"hello_edit"
+			],
+			[
+				"hel",
+				"hello_edit"
+			],
+			[
+				"heap",
+				"heap"
+			],
+			[
+				"nu",
+				"num_elements-1"
+			],
+			[
+				"v_",
+				"v_inertial"
+			],
+			[
+				"al",
+				"alpha2"
+			],
+			[
+				"alp",
+				"alpha0"
+			],
+			[
+				"g",
+				"gamma"
+			],
+			[
+				"l",
+				"l1"
+			],
+			[
+				"phi",
+				"phi1dot"
+			],
+			[
+				"sta",
+				"start_coord"
+			],
+			[
+				"end",
+				"end_id"
+			],
+			[
+				"strat",
+				"start_coord"
+			],
+			[
+				"min",
+				"min_value"
+			],
+			[
+				"temp",
+				"tempOpenList"
+			],
+			[
+				"te",
+				"temp"
+			],
+			[
+				"get",
+				"getG"
+			],
+			[
+				"se",
+				"setParent"
+			],
+			[
+				"G",
+				"Gdiag"
+			],
+			[
+				"li",
+				"limits"
+			],
+			[
+				"list",
+				"listofones"
+			],
+			[
+				"row",
+				"rowlist"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"alpha",
+				"alpha1"
+			],
+			[
+				"set",
+				"set_mode\tpygame(display) "
+			],
+			[
+				"displ",
+				"display\tpygame(Overlay) "
+			],
+			[
+				"add",
+				"add_two_ints_client"
+			],
+			[
+				"ros",
+				"rossource"
+			],
+			[
+				"t",
+				"turtlesim2"
+			],
+			[
+				"tr",
+				"turtlesim1"
+			],
+			[
+				"string",
+				"string-array"
+			],
+			[
+				"data",
+				"data2"
+			],
+			[
+				"Dis",
+				"Displacements_Prev"
+			],
+			[
+				"Displae",
+				"Displacements_Current"
+			],
+			[
+				"Veloc",
+				"Velocities_LieAlgebraForm"
+			],
+			[
+				"Velocities",
+				"Velocities_InertialFrame"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"th",
+				"thetab_dot"
+			],
+			[
+				"Vel",
+				"Velocities_LieAlgebraForm"
+			],
+			[
+				"a",
+				"a_1"
+			],
+			[
+				"v",
+				"v_x"
+			],
+			[
+				"u_",
+				"u_t"
+			],
+			[
+				"a_2",
+				"a_2_dot"
+			],
+			[
+				"a_1",
+				"a_1_dot"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"bor",
+				"border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/CUDA C++/cuda-c++.sublime-build",
+					""
+				],
+				[
+					"Packages/CUDA C++/cuda-c++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"XeLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"diff",
+				"Git: Diff"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"theme",
+				"Material Theme: Configuration"
+			],
+			[
+				"materia",
+				"Material Theme: Activate theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build With: LaTeX - PdfLaTeX"
+			],
+			[
+				"xela",
+				"Build With: LaTeX - Basic Builder - XeLaTeX"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"set syntax late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"set late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"xelate",
+				"Build With: LaTeX - XeLaTeX"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"lates",
+				"LaTeXTools: Check system"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"octa",
+				"Snippet: Octave function"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"reindi",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"set syntax: latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"key b",
+				"Preferences: Key Bindings"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"rein\t",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"set syntax pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"consol",
+				"Set Syntax: R Console"
+			],
+			[
+				"set syntax: c",
+				"Set Syntax: C++"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"snippet",
+				"Snippet: Sub Section"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			]
+		],
+		"width": 531.0
+	},
+	"console":
+	{
+		"height": 260.0,
+		"history":
+		[
+			"pwd",
+			"touch references.bib",
+			"touch 'references.bib'",
+			"touch \"references.bib\"",
+			"touch references.bib",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/soham_shanbhag/git/LaTeX/CV_Research",
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/cv"
+	],
+	"file_history":
+	[
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/cv/internship.tex",
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/cv/skills.tex",
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/cv/extracurricular.tex",
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/cv/research.tex",
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/cv.tex",
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/cv/other_projects.tex",
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/cv/honors.tex",
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/cv/por.tex",
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/cv/courses.tex",
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/cv/course_projects.tex",
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/cv/workshops.tex",
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/awesome-cv.cls",
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/cv/interests.tex",
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/cv/education.tex",
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/cv/experience.tex",
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/cv/presentation.tex",
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/cv/writing.tex",
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/cv/committees.tex",
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/CV.sublime-project",
+		"/home/soham_shanbhag/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
+		"/home/soham_shanbhag/git/LaTeX/Research 2 Page Resume/two_page.tex",
+		"/home/soham_shanbhag/git/sohamshanbhag.github.io/index.html",
+		"/home/soham_shanbhag/tempCV/clean.sh",
+		"/home/soham_shanbhag/IITB/PhD Applications/CV/CV_new20format/cv.tex",
+		"/home/soham_shanbhag/IITB/PhD Applications/CV/Professional20CV/cv.tex",
+		"/home/soham_shanbhag/IITB/Projects/Feedback Integrators/TO VS/Flow/Flow.log",
+		"/home/soham_shanbhag/git/LaTeX/DDP Report/main.tex",
+		"/home/soham_shanbhag/IITB/Projects/Feedback Integrators/TO VS/Flow/Flow.tex",
+		"/home/soham_shanbhag/git/LaTeX/CV_Research/.gitignore",
+		"/home/soham_shanbhag/Downloads/Rudyard Kipling_ The Complete Novels and Stories (House of Classics).azw3",
+		"/home/soham_shanbhag/git/sohamshanbhag.github.io/vendor/font-awesome/css/font-awesome.css",
+		"/home/soham_shanbhag/git/sohamshanbhag.github.io/vendor/devicons/css/devicons.css",
+		"/home/soham_shanbhag/git/sohamshanbhag.github.io/css/resume.css",
+		"/home/soham_shanbhag/git/sohamshanbhag.github.io/README.md",
+		"/home/soham_shanbhag/IITB/Projects/Trajectory Generation/Info/information.tex",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/SC 617/Project/Presentation/haddad.tex",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/SC 617/Project/Presentation/references.bib",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/SC 617/Project/Presentation/main.tex",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/SC 617/Project/Presentation/Mu.tex",
+		"/home/soham_shanbhag/.bashrc",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/SC 617/Project/Presentation/Presentation.tex",
+		"/home/soham_shanbhag/git/github_website/index.html",
+		"/home/soham_shanbhag/IITB/Projects/Trajectory Generation/Info/README",
+		"/home/soham_shanbhag/git/LaTeX/SC617_Project/leonessa.tex",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/SC 633/Report/report.tex",
+		"/home/soham_shanbhag/git/LaTeX/SC617_Project/haddad_procon.tex",
+		"/home/soham_shanbhag/git/LaTeX/SC617_Project/main.tex",
+		"/home/soham_shanbhag/git/LaTeX/SC617_Project/references.bib",
+		"/home/soham_shanbhag/git/LaTeX/SC617_Project/main.toc",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/SC 617/Project/Sim/Leonessa_linsys.m",
+		"/home/soham_shanbhag/git/LaTeX/SC617_Project/macros.sty",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/SC 617/Project/temp report/for_chinmay.tex",
+		"/home/soham_shanbhag/temp/input_sudoku.txt",
+		"/home/soham_shanbhag/temp/killer_sudoku.cpp",
+		"/home/soham_shanbhag/temp/input3.txt",
+		"/home/soham_shanbhag/temp/input2.txt",
+		"/home/soham_shanbhag/temp/temp.cpp",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/ME 6106/Project/Report/ME6106_Project_Report.tex",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/ME 6106/Project/Simulation/Shah_Raymond.m",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/ME 6106/Project/Simulation/Henshell_Ong.m",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/ME 6106/Project/Simulation/Shah_Raymonds.m",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/ME 6106/Project/Simulation/generateSparseKmatrix.m",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/ME 6106/Project/Simulation/generateSparsePermutation.m",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/ME 6106/Project/Simulation/generateSparseMmatrix.m",
+		"/home/soham_shanbhag/.config/octave/qt-settings",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/ME 6106/Project/Report/ME6106_Project_Report.bbl",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/SC 633/Report/report.log",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/SC 617/Hmwk3/report/report.tex",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/SC 617/Hmwk3/Qc.m",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/SC 617/Hmwk3/Qb.m",
+		"/home/soham_shanbhag/texmf/tex/latex/banavar_macros/banavar_macros.sty",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/CASM/Project/TermProject1/Report/report.tex",
+		"/home/soham_shanbhag/texmf/tex/latex/genericTitle/genericTitle.sty",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/CASM/Project/TermProject1/Report/ref.bib",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/SC 633/Report/genericTitle.sty",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/SC 633/Report/columbidaeTitle.sty",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/SC 633/Report/columbidaetitle.tex",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/SC 633/Report/report.pdf",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/ME 6112/Project/LMS_sim.m",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/ME 6112/Project/two_sensor_sim.m",
+		"/home/soham_shanbhag/temp/ISMP_rename.py",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/ME 6112/HW4/Qa.m",
+		"/home/soham_shanbhag/IITB/Projects/DDP/Presentation1/Presentation.tex",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/SC 617/Hmwk2/Q1_c_s.m",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/SC 617/Hmwk2/Q1_d.m",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/SC 617/Hmwk2/Q1_c.m",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/SC 617/Adaptive integrator Backstepping/Proof_123.tex",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/CASM/Project/TermProject1/Simulation/output/temp/alpha60.tab",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/CASM/Project/TermProject1/Simulation/output/temp/alpha50.htm",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/CASM/Project/Assignment1/ref.bib",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/CASM/Project/TermProject1/Simulation/output/output/output_y.csv",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/CASM/Project/TermProject1/Simulation/output/output/output_x.csv",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/CASM/Project/TermProject1/Simulation/output/output/output_w.csv",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/CASM/Project/TermProject1/Simulation/output/output/output_alpha.csv",
+		"/home/soham_shanbhag/IITB/Projects/Robotic Manipulator/Code/main2link.m",
+		"/home/soham_shanbhag/IITB/Projects/Robotic Manipulator/Code/func2link.m",
+		"/home/soham_shanbhag/git/LaTeX/Richa_project/.gitignore",
+		"/home/soham_shanbhag/git/LaTeX/Richa_project/main.tex",
+		"/home/soham_shanbhag/git/LaTeX/Richa_project/Richa_project",
+		"/home/soham_shanbhag/git/LaTeX/Richa_project/IE613_LecXX.tex",
+		"/home/soham_shanbhag/git/LaTeX/Richa_2",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/CASM/Project/Assignment1/report.tex",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/CASM/Project/Assignment1/report.aux",
+		"/home/soham_shanbhag/IITB/Academics/Sem 8/CASM/Project/Assignment1/report.bbl",
+		"/home/soham_shanbhag/IITB/Projects/DDP/s_shanbhag_rep1/s_shanbhag_rep1.tex",
+		"/home/soham_shanbhag/IITB/Projects/apping mail.txt",
+		"/home/soham_shanbhag/Downloads/vpn/ubuntu_64bbit_openvpn_client/certificate.crt",
+		"/home/soham_shanbhag/IITB/Projects/DDP/Report_10_17/ref.bib",
+		"/home/soham_shanbhag/IITB/Projects/DDP/Report_10_17/s_shanbhag_rep1.tex",
+		"/home/soham_shanbhag/IITB/Projects/DDP/Report_10_17/images/model/lambda1.tex",
+		"/home/soham_shanbhag/IITB/Projects/DDP/Report_10_17/images/model/phi.tex",
+		"/home/soham_shanbhag/IITB/Projects/DDP/Report_10_17/images/model/lambda.tex",
+		"/home/soham_shanbhag/tp/epub editing/The Very Best Of R. K. Narayan R. K. Naray - R. K. Narayan.epub_FILES/index_split_003.html",
+		"/home/soham_shanbhag/tp/epub editing/The Very Best Of R. K. Narayan R. K. Naray - R. K. Narayan.epub_FILES/index_split_000.html",
+		"/home/soham_shanbhag/tp/epub editing/The Very Best Of R. K. Narayan R. K. Naray - R. K. Narayan.epub_FILES/index_split_004.html",
+		"/home/soham_shanbhag/tp/epub editing/The Very Best Of R. K. Narayan R. K. Naray - R. K. Narayan.epub_FILES/index_split_005.html",
+		"/home/soham_shanbhag/tp/epub editing/The Very Best Of R. K. Narayan R. K. Naray - R. K. Narayan.epub_FILES/index_split_006.html",
+		"/home/soham_shanbhag/tp/epub editing/The Very Best Of R. K. Narayan R. K. Naray - R. K. Narayan.epub_FILES/index_split_007.html",
+		"/home/soham_shanbhag/tp/epub editing/The Very Best Of R. K. Narayan R. K. Naray - R. K. Narayan.epub_FILES/index_split_008.html",
+		"/home/soham_shanbhag/tp/epub editing/The Very Best Of R. K. Narayan R. K. Naray - R. K. Narayan.epub_FILES/titlepage.xhtml",
+		"/home/soham_shanbhag/tp/epub editing/The Very Best Of R. K. Narayan R. K. Naray - R. K. Narayan.epub_FILES/index_split_002.html",
+		"/home/soham_shanbhag/tp/epub editing/The Very Best Of R. K. Narayan R. K. Naray - R. K. Narayan.epub_FILES/index_split_001.html",
+		"/home/soham_shanbhag/Calibre Library/R. K. Narayan/The Very Best Of R. K. Narayan R. K. Narayan (53)/The Very Best Of R. K. Narayan R. K. Naray - R. K. Narayan.azw3",
+		"/home/soham_shanbhag/IITB/Projects/DDP/Report_10_17/report.tex",
+		"/home/soham_shanbhag/IITB/Projects/DDP/Report_10_17/macros.sty",
+		"/home/soham_shanbhag/IITB/Projects/DDP/Report_10_17/report.bbl",
+		"/home/soham_shanbhag/IITB/Projects/DDP/Report_10_17/sample_file.tex",
+		"/home/soham_shanbhag/IITB/Projects/cap sensor/Article/development-fabrication-characterization/mylit.bib"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 388.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Jan",
+			"Nov",
+			"cventries",
+			"cvitems",
+			"Course Project: ",
+			"July 2014 - Nov 2014",
+			"}",
+			"\\textbf{"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 132.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 313.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 147.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "CV.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cv/skills",
+				"cv/skills.tex"
+			],
+			[
+				"other",
+				"cv/other_projects.tex"
+			],
+			[
+				"resea",
+				"cv/research.tex"
+			],
+			[
+				"educa",
+				"cv/education.tex"
+			],
+			[
+				"devico",
+				"vendor/devicons/css/devicons.css"
+			],
+			[
+				"css",
+				"vendor/font-awesome/css/font-awesome.css"
+			],
+			[
+				"READ",
+				"README.md"
+			],
+			[
+				"",
+				"~/temp/ISMP_rename.py"
+			],
+			[
+				"sublime",
+				"~/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
